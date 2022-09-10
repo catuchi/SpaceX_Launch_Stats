@@ -5,6 +5,8 @@ const schema = require("./schema");
 
 const app = express();
 
+// install react router
+
 // Allow cross-origin
 app.use(cors());
 
